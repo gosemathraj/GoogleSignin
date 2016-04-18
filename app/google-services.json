@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "decisive-mapper-128115",
+    "project_number": "438458100126",
+    "name": "GoogleSignin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438458100126:android:9d17fc09505d581c",
+        "client_id": "android:com.gosemathraj.googlesignin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.gosemathraj.googlesignin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438458100126-3in97ob5vmo29mu8tf93eo3uj0d9m0e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gosemathraj.googlesignin",
+            "certificate_hash": "60372F6CFD0011C08448CB64942E5D66E33D94D6"
+          }
+        },
+        {
+          "client_id": "438458100126-dgrlcqqj0qjmc9gul31avjbhmvkmtiv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
